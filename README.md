@@ -101,8 +101,8 @@ Secure multilingual learning platform with dashboards, microservices, real-time 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=azizmhiri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1B2A&title_color=22D3EE&icon_color=F4A261&text_color=C9D6DF" alt="Ahmed Aziz Mhiri's GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizmhiri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1B2A&title_color=22D3EE&text_color=C9D6DF" alt="Ahmed Aziz Mhiri's most used languages" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=mhiriaziz13-gif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1B2A&title_color=22D3EE&icon_color=F4A261&text_color=C9D6DF" alt="Ahmed Aziz Mhiri's GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhiriaziz13-gif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1B2A&title_color=22D3EE&text_color=C9D6DF" alt="Ahmed Aziz Mhiri's most used languages" height="165" />
 
 </div>
 
